@@ -1,0 +1,11 @@
+Pada bab sebelumnya, Anda mengambil data untuk halaman Dasbor. Namun, kami membahas secara singkat dua batasan dari pengaturan saat ini:
+    Permintaan data menciptakan waterfall yang tidak disengaja.
+    Dasbornya statis, jadi pembaruan data apa pun tidak akan terlihat di aplikasi Anda.
+
+Berikut adalah topik yang akan kami bahas
+    Apa itu rendering statis dan bagaimana ia dapat meningkatkan kinerja aplikasi Anda.
+    Apa itu rendering dinamis dan kapan menggunakannya.
+    Berbagai pendekatan untuk membuat dasbor Anda dinamis.
+    Simulasikan pengambilan data yang lambat untuk melihat apa yang terjadi.
+
+
